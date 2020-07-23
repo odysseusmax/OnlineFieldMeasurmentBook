@@ -1,6 +1,6 @@
 # Online Field Measurement App
 
-> A web portal build for streamlining the process of digitalising Field Measurement Book.
+> A web portal for streamlining the process of digitalising Field Measurement Book.
 
 ## Context
 
